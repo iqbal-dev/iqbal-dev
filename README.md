@@ -11,5 +11,5 @@
 [Click me](http://www.google.com){: .btn}
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iqbal-dev&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iqbal-dev&theme=light)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal-dev&theme=light)
