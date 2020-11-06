@@ -42,12 +42,12 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal-dev&card_width=550)](https://github.com/iqbal-dev/iqbal-dev)
 
 [programming]: https://www.programming-hero.com/
-[website]: https://manikroy.netlify.app/
-[twitter]: https://manikroy.netlify.app/
-[youtube]:  https://manikroy.netlify.app/
-[instagram]: https://www.instagram.com/manikroy_89/
-[linkedin]: https://www.linkedin.com/in/manik-roy
-[webdevplaylist]: https://manikroy.netlify.app/
-[jsplaylist]: https://manikroy.netlify.app/
-[cssplaylist]: https://manikroy.netlify.app/
-[reactplaylist]: https://manikroy.netlify.app/
+[website]: https://mdiqbal.netlify.app
+[twitter]: https://mdiqbal.netlify.app
+[youtube]:  https://mdiqbal.netlify.app
+[instagram]: https://www.instagram.com/mdiqbal0022/
+[linkedin]: https://www.linkedin.com/in/md-iqbal-hossain-39670b1a3/
+[webdevplaylist]: https://mdiqbal.netlify.app/
+[jsplaylist]: https://mdiqbal.netlify.app/
+[cssplaylist]: https://mdiqbal.netlify.app
+[reactplaylist]: https://mdiqbal.netlify.app
