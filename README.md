@@ -8,8 +8,7 @@
 - :goal_net: 2020 Goals: Learn React,Node,redux
 
 ### connect me:
-
-
+	![alt text](image.jpg)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iqbal-dev&theme=light)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal-dev&theme=light)
