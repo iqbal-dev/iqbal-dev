@@ -4,7 +4,6 @@
 ### I am a :heart_eyes: :heart_eyes:Javascript lover :heart_eyes::heart_eyes:
 
 - 🌱 I’m currently learning everything
-- :goal_net: 2020 Goals: Learn React,Node,redux
 - ⚡ Fun fact: to explore the world
 
 
